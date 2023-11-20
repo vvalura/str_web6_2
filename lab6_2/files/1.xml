@@ -1,0 +1,17 @@
+<personXML>
+    <id>1</id>
+    <surname>Fillipov</surname>
+    <forename>Alexandr</forename>
+    <patronymic>Salomonovich</patronymic>
+    <dob>2000-07-01</dob>
+    <sex>1</sex>
+    <passportSeries>HB</passportSeries>
+    <passportNumber>1234567</passportNumber>
+    <city>Minsk</city>
+    <address>Kamenka</address>
+    <phoneHome>282-51-75</phoneHome>
+    <phoneMobile>+375291234567</phoneMobile>
+    <citizenship>yes</citizenship>
+    <dutyBound>23</dutyBound>
+    <qtype>CREATE</qtype>
+</personXML>

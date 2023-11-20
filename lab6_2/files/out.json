@@ -1,0 +1,15 @@
+{
+  "id": "2",
+  "surname": "Mironova",
+  "forename": "Agata",
+  "patronymic": "Tatyanovna",
+  "sex": 2,
+  "passportSeries": "HB",
+  "passportNumber": "6666666",
+  "city": "Minsk",
+  "address": "Kamenka",
+  "phoneHome": "345-21-34",
+  "phoneMobile": "+375445846548",
+  "citizenship": "yes",
+  "dutyBound": 29
+}
